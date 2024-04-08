@@ -1,8 +1,8 @@
-# <img src="https://github.com/artHub-j/dabd-apunts-artuaragon/assets/92806890/bd0f85c2-26ab-488e-98e3-cce94a095788" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 1 | DL 8 ABRIL 2024 | 
+# <img src="assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 1 | DL 8 ABRIL 2024 | 
 
-| Resum |  T1   |  T2   |
-| :---: | :---: | :---: |
-|   x   |   x   |   x   |
+| Resums |                                    T1                                     |                                  T2                                   |
+| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| Link  | [<img src="assets/linkicon.png" alt="link" width="40" height="40">](link) | [<img src="assets/linkicon.png" alt="link" width="40" height="40">]() |
 
 # Capitol 1. introducció a les Metodologies Agile.
 
@@ -14,8 +14,8 @@
     
     |     ETAPA     |             OBJECTIU              |                 RESULTAT                 |                  ROL                  |
     | :-----------: | :-------------------------------: | :--------------------------------------: | :-----------------------------------: |
-    | Especificacio |  Definir i especificar requisits  | Document requsists; Model Especificacio  |         Enginyer de requisits         |
-    |    Disseny    |  Estructurar el sistema software  | Arquitectura sistema; Components sistema |          Arquitecte software          |
+    | Especificacio |  Definir i especificar requisits  | Document requsists, Model Especificacio  |         Enginyer de requisits         |
+    |    Disseny    |  Estructurar el sistema software  | Arquitectura sistema, Components sistema |          Arquitecte software          |
     | Implementacio |   Programar el sistema software   |      Codi, Scripts, Bases de dades       |            Desenvolupador             |
     |    Proves     | Validar la correctesa del sistema |     Jocs de proves, Estudi qualitat      | Provador (tester), Gestor de qualitat |
     | Desplegament  | Posar el sistema en funcionament  |         Sistema en funcionament          | Enginyer sistemes, Administardor BDs  |
@@ -55,7 +55,7 @@
     - Desdenvolupament.
       - A cada Iteracio de Desenvolupament: PLAN, DESIGN, BUILD, TEST, REVIEW, LAUNCH.
 
-![alt text](assets/image.png)
+![alt text](assets/sprints.png)
 
 2. Rols
 
