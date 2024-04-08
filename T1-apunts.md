@@ -48,27 +48,52 @@
 
 ### Elements caracteristics de les metodologies Agile
 
-1. Proces
+### 1. Proces
 
-    Dirigit per iteracions (SPRINTS).
+  - Dirigit per iteracions (SPRINTS).
     - Incepcio.
     - Desdenvolupament.
       - A cada Iteracio de Desenvolupament: PLAN, DESIGN, BUILD, TEST, REVIEW, LAUNCH.
 
-![alt text](assets/sprints.png)
+        <img src="assets/sprints.png" width="500">
 
-2. Rols
+### 2. Rols
 
-    - DEVELOPMENT TEAM:
+  - DEVELOPMENT TEAM:
       - Control de les seves propies taques.
       - Auto-gestio.
       - Planificacio i execucio de les iteracions.
       - Entrega del resultats acordats a temps i amb qualitat.
-    - PRODUCT OWNER:
-      - Comuniacio amb els stakeholders ()
+  - PRODUCT OWNER:
+      - Comuniacio amb els stakeholders (Clients, Entitat que fa inversio sobre el producte, etc).
+      - Creacio de la visio i roadmap del producte.
+      - Presa de decisions i determinacio d'objectius per a futures iteracions.
+      - Planificacio de les releases i iteracions.
+  - SCRUM MASTER: 
+      - Formacio de l'equip de desenvolupament.
+      - Facilita cerimonia Agil.
+      - Assegura que la iteracio va progressant.
+      - Assegura que els membres de l'equip estan treballant.
+      - Dona retroalimentacio.
 
-3. Artefactes
-4. Models
-5. Tecniques
-6. Cerimonia
-7. Eines
+          <img src="assets/rolsResum.png" width="400">
+
+### 3. Artefactes
+
+  - USER STORIES:
+    - Representacio del requisits del sistema.
+    - Expressen:
+      - QUI vol el requisit ("As a")
+      - QUINA es la necessitat o requisit ("I want")
+      - QUIN es el valor que aporta ("So that")
+    - Tenen atributs:
+      - Valor de negoci
+      - Esforç d'implementacio
+      - Etc.
+  
+    <img src="assets/userstories.png" width="400">
+
+### 4. Models
+### 5. Tecniques
+### 6. Cerimonia
+### 7. Eines
