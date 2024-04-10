@@ -90,10 +90,52 @@
       - Valor de negoci
       - Esforç d'implementacio
       - Etc.
+    - S'han de completar en una iteracio
   
-    <img src="assets/userstories.png" width="400">
+      <img src="assets/userstories.png" width="200">
+
+  - AGRUPACIONS DE USER STORIES:
+    - Epiques: historia d'usuari gran que pot abastar mes d'una iteracio.
+    - 
+    - Tema: gran area de treball del sistema.
+    - Etc.
 
 ### 4. Models
+  - Mapes Navegacionasls, mock-ups
+  - Diagrames de Classe, sequencia
+  - Artquitectura tecnica del sistema 
+  
 ### 5. Tecniques
+  - Prodcut Box, NOT List
+  - Planning poker 
+  - Taulell del projecte
+  - Grafiques de monitoritzacio
+
 ### 6. Cerimonia
+  - Sprint Retrospective:
+    - Analisi dels pints fort i febles del proces agil
+  - Daily Scrum:
+    - Rapida resposta en comu de la feina
+  - Sprint Planning:
+    - Que fer (i com) en la seguent iteracio
+  - Sprint Review:
+    - Revisio de la feina feta en la iteracio
+  - Product Backlog Refinement:
+    - Proces continu del Backlog
+
 ### 7. Eines
+  - Gestio de Codi:
+    - Git, GitHub, GitLab, etc
+  - Gestio de projectes:
+    - Jira, Taiga, Trello
+  - Proves de Codi:
+    - Xray, JUnit
+  - Integracio Continua, Desplegament continu:
+    - Jenkins, Travis CI
+  - Qualitat de Codi:
+    - Codacy, SonarCloud
+  - Paquetitzacio:
+    - docker
+  - Generacio de codi:
+    - ChatGPT
+    - Copilot
