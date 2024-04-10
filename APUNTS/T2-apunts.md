@@ -1,8 +1,10 @@
-# <img src="assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 2 | DL 8 ABRIL 2024 | 
+# <img src="../assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 2 | DL 8 ABRIL 2024 | 
 
-| Resums |                                    T1                                     |                                  T2                                   |
-| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| Link  | [<img src="assets/linkicon.png" alt="link" width="40" height="40">]([link](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T1-apunts.md)) | [<img src="assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T2-apunts.md) |
+## Index
+
+| RESUMS |                                    T1                                     |                                  T2                                   | IA Generativa | Agile QUABU
+| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-: |:-: |
+| Link  | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T1-apunts.md) | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T2-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/IA_Generativa-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/Agile_QUABU-apunts.md) |
 
 # Conceptes basics de les metodologies Agile
 

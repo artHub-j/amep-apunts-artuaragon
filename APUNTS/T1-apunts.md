@@ -1,8 +1,10 @@
-# <img src="assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 1 | DL 8 ABRIL 2024 | 
+# <img src="../assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | TEMA 1 | DL 8 ABRIL 2024 | 
 
-| Resums |                                    T1                                     |                                  T2                                   |
-| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| Link  | [<img src="assets/linkicon.png" alt="link" width="40" height="40">](link) | [<img src="assets/linkicon.png" alt="link" width="40" height="40">]() |
+## Index
+
+| RESUMS |                                    T1                                     |                                  T2                                   | IA Generativa | Agile QUABU
+| :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-: |:-: |
+| Link  | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T1-apunts.md) | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T2-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/IA_Generativa-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/Agile_QUABU-apunts.md) |
 
 # Capitol 1. introducció a les Metodologies Agile.
 
@@ -55,7 +57,7 @@
     - Desdenvolupament.
       - A cada Iteracio de Desenvolupament: PLAN, DESIGN, BUILD, TEST, REVIEW, LAUNCH.
 
-        <img src="assets/sprints.png" width="500">
+        <img src="../assets/sprints.png" width="500">
 
 ### 2. Rols
 
@@ -76,7 +78,7 @@
       - Assegura que els membres de l'equip estan treballant.
       - Dona retroalimentacio.
 
-          <img src="assets/rolsResum.png" width="400">
+          <img src="../assets/rolsResum.png" width="400">
 
 ### 3. Artefactes
 
@@ -92,7 +94,7 @@
       - Etc.
     - S'han de completar en una iteracio
   
-      <img src="assets/userstories.png" width="200">
+      <img src="../assets/userstories.png" width="200">
 
   - AGRUPACIONS DE USER STORIES:
     - Epiques: historia d'usuari gran que pot abastar mes d'una iteracio.

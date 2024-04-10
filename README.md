@@ -1,1 +1,0 @@
-# amep-apunts-artuaragon

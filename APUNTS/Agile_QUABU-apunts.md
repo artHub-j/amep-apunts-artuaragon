@@ -1,0 +1,1 @@
+# <img src="../assets/UPClogo.png" alt="Logo_UPC svg" width="40" height="40"> amep-apunts-artuaragon | Agile QUABU | ABRIL 2024 | 
