@@ -4,7 +4,7 @@
 
 | RESUMS |                                    T1                                     |                                  T2                                   | IA Generativa | Agile QUABU
 | :---: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-: |:-: |
-| Link  | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T1-apunts.md) | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/T2-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/IA_Generativa-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/Agile_QUABU-apunts.md) |
+| Link  | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/APUNTS/T1-apunts.md) | [<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/APUNTS/T2-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/APUNTS/IA_Generativa-apunts.md)|[<img src="../assets/linkicon.png" alt="link" width="40" height="40">](https://github.com/artHub-j/amep-apunts-artuaragon/blob/main/APUNTS/Agile_QUABU-apunts.md) |
 
 # Conceptes basics de les metodologies Agile
 
